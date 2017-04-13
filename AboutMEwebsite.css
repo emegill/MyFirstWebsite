@@ -1,0 +1,55 @@
+img {
+	width:100%;
+	height:100%;
+	box-shadow: 10px 10px 5px grey;
+
+}
+
+html, body {
+    background-image: url("wood.jpeg");
+    background-size: cover;
+    height: 100%;  
+}
+
+
+h1 {
+font-style: bold;
+font-size: 40px;
+}
+
+	.p1{
+		margin: 80px;
+		padding:5px;
+		color: purple;
+	}
+
+	.ethan{
+		width:50%;
+	  height: 400px;
+	  float:left;
+	  padding: 5px;
+	  margin: 5px;
+	  display: inline-block;
+	  text-align: center;
+	  border-radius: 50%;
+	}
+	.clear{
+		clear:both;
+		border:none;
+	}
+
+	.allimages{
+		background-color: rgba(0, 255, 0, 0.3);
+	}
+
+	.nav2 {
+		position: fixed;
+		bottom: : 0;
+		width: 100%;
+		text-align: center;
+	}
+
+	.page2 {
+		font-family: helvetica;
+		
+	}
